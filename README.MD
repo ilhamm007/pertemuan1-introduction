@@ -1,4 +1,6 @@
-#INTRODUCTION
+# INTRODUCTION
 
-Nama    : M Ilham Alimudin
-NIM     : 201440018
+Dibuat oleh:
++ Nama    : M Ilham Alimudin
++ NIM     : 201440009
+  
